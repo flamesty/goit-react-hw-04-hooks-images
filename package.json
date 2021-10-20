@@ -2,7 +2,8 @@
   "name": "goit-react-hw-04-hooks-images",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://flamesty.github.io/goit-react-hw-04-hooks-feedback",
+  "homepage": "https://flamesty.github.io/goit-react-hw-04-hooks-images",
+  
   "dependencies": {
     "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
